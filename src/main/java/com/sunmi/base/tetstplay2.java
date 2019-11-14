@@ -14,4 +14,8 @@ public class tetstplay2 {
 	public void erro2() {
 		assertTrue(true);
 	}
+	@Test
+	public void erro3() {
+		assertTrue(true);
+	}
 }
