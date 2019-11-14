@@ -71,7 +71,7 @@
 				<suiteXmlFile>testng.xml</suiteXmlFile>
 			</suiteXmlFiles>
 		</configuration>
-		<version>2.4</version>
+		<version>2.7.1</version>
 	</plugin>
 	
 	<!-- 添加插件,添加ReportNg的监听器，修改最后的TestNg的报告 -->
