@@ -3,8 +3,8 @@
 <suite name="suite">
     <test name="test">
         <classes>
-            <class name="com.sunmi.base.tetstplay" />
-            <class name="com.sunmi.base.tetstplay2" />
+            <class name="com.sunmi.test.tetstplay" />
+            <class name="com.sunmi.test.tetstplay2" />
         </classes>
     </test>
 </suite>

@@ -1,4 +1,4 @@
-package com.sunmi.base;
+package com.sunmi.test;
 
 import static org.testng.Assert.assertTrue;
 
